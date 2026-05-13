@@ -18,7 +18,6 @@
 
 ### 📊 Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-with-Anshu)](https://github.com/anuraghazra/github-readme-stats)
 
  <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
