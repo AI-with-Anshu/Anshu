@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/anshu-giri-b037592b5/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/akshatbauskar27/akshatbauskar27/blob/ec5455c7794bfd37126c671a8159a6f5edeba828/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/anshu-giri-b037592b5/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/AI-with-Anshu/Anshu/blob/main/linkedin.svg"> LinkedIn</a></code>
 </h5>
 
 ### 🔥 Streak Stats
